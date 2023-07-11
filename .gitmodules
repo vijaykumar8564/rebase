@@ -1,0 +1,3 @@
+[submodule "fullrepo"]
+	path = fullrepo
+	url = https://github.com/vijaykumar8564/testing.git
